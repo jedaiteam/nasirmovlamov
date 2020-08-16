@@ -1,2 +1,2 @@
-Hi there, I'am Nasir - <s>[website/protfolio](https://www.google.com)</s>
+Hi there, I'am Nasir - <strong>[website/protfolio](https://www.google.com)</strong>
 
