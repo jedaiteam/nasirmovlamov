@@ -12,7 +12,7 @@
 <h4>Languages<h4/>
   <div><pre><img src='https://image.flaticon.com/icons/svg/541/541509.svg' width='30px' height='30px'/>  <img src='https://image.flaticon.com/icons/svg/1822/1822899.svg' width='30px' height='30px'/>  <img src='https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png' width='30px' height='30px'/></pre></div>
 <h4>Frameworks and Libraries</h4>
-  <div><pre><img src='https://cdn.worldvectorlogo.com/logos/react-1.svg' width='30px' height='30px'/>  <img src='https://www.djangoproject.com/m/img/logos/django-logo-negative.png' width='30px' height='30px'/>  <img src='' width='30px' height='30px'/>  <img src='' width='60px' height='30px'/>   </pre></div>  
+  <div><pre><img src='https://cdn.worldvectorlogo.com/logos/react-1.svg' width='30px' height='30px'/>  <img src='https://www.djangoproject.com/m/img/logos/django-logo-negative.png' width='60px' height='30px'/>  <img src='' width='30px' height='30px'/>  <img src='' width='30px' height='30px'/>   </pre></div>  
 <h4>Tools</h4>
   <div><pre>  </pre></div>
   
