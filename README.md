@@ -7,4 +7,4 @@
   <li> :pushpin: Computer Engineering </li>
   <li> :rocket: Nowadays learning only trend tools-languages</li>
   <li> :earth_americas: Open Source Mind </li>
-  http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+ [![alt text][1.1]][1]
