@@ -1,4 +1,4 @@
-:wink:Hi there, I'am Nasir - <strong>[website-protfolio](https://www.google.com)</strong>:wave:
+:wink:Hi there, I'am Nasir    <strong>[website-protfolio](https://www.google.com)</strong>:wave:
 <div>
   <h2>I'm a Junior Developer!</h2> 
 </div>
