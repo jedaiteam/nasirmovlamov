@@ -10,6 +10,6 @@
 </ul>
  <h2> Connect with me </h2>
 <div>
-<pre><img src='https://image.flaticon.com/icons/svg/733/733614.svg' width='24px' height='24px' margin-right='20px'/>   <img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' />
+<pre><img src='https://image.flaticon.com/icons/svg/733/733614.svg' width='24px' height='24px' margin-right='20px'/>  <img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' />  <img src='https://image.flaticon.com/icons/svg/1051/1051333.svg height='24px' width='24px'/>
 </pre> 
 </div>
