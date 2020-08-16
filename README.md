@@ -14,7 +14,7 @@
 <h4>Frameworks and Libraries</h4>
   <div><pre><img src='https://cdn.worldvectorlogo.com/logos/react.svg' width='30px' height='30px'/>  <img src='https://img2.pngio.com/nodejs-javascript-web-application-expressjs-computer-software-node-png-820_820.jpg' width='30px' height='30px'/>  <img src='https://icon-library.com/images/django-icon/django-icon-0.jpg' width='30px' height='30px'/>  <img src='https://material-ui.com/static/logo.png' width='30px' height='30px'/>  <img src='https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png' width='35px' height='35px'/>  <img src='https://parceljs.org/assets/parcel-front.webp' width='30px' height='30px'/>  <img src='https://seeklogo.com/images/G/gulp-logo-415632861B-seeklogo.com.png' width='22px' height='30px'/>  <img src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg' width='25px' height='25px'/>  <img src='https://raw.githubusercontent.com/aniftyco/awesome-tailwindcss/master/tailwind-css-logo.svg?sanitize=true' width='30px' height='30px'   </pre></div>  
 <h4>Tools</h4>
-  <div><pre><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png' width='40px' height='30px'/>  </pre></div>
+  <div><pre><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png' width='45px' height='25px'/>  </pre></div>
   
 <h4> Connect with me </h4>
 <div>
