@@ -19,6 +19,6 @@
     <div><pre><img src='https://icon2.cleanpng.com/20180514/abe/kisspng-atom-text-editor-source-code-editor-visual-studio-5af92043eaf496.4540113715262761639624.jpg' width='35px' height='35px'/>  <img src='https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg' width='30px' height='30px'/>  <img src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg' width='30px' height='30px'/></pre></div>
 <h4> Connect with me </h4>
 <div>
-<pre><img src='https://image.flaticon.com/icons/svg/733/733614.svg' width='24px' height='24px' margin-right='20px'/>  <img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' />  <img src='https://image.flaticon.com/icons/svg/1051/1051333.svg' height='24px' width='24px'/>  <img src='https://image.flaticon.com/icons/svg/2991/2991143.svg' width='23px' height='26px'/>  <img src='https://image.flaticon.com/icons/svg/1051/1051317.svg' height='24px' width='24px'/>
+<pre><img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' />  <img src='https://image.flaticon.com/icons/svg/1051/1051333.svg' height='24px' width='24px'/>  <img src='https://www.pinclipart.com/picdir/big/49-494216_download-logo-imel-vektor-png-clipart-logo-clip.png' width='24px' height='24px'/>  <img src='https://image.flaticon.com/icons/svg/1051/1051317.svg' height='24px' width='24px'/>  <img src='https://image.flaticon.com/icons/svg/733/733614.svg' width='24px' height='24px' margin-right='20px'/>
 </pre> 
 </div>
