@@ -7,4 +7,6 @@
   <li> :pushpin: Computer Engineering </li>
   <li> :rocket: Nowadays learning only trend tools-languages</li>
   <li> :earth_americas: Open Source Mind </li>
+</ul>
+ <h2> Connect with me </h2>
   <img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' />
