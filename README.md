@@ -9,5 +9,5 @@
   <li> :earth_americas: Open Source Mind </li>
 </ul>
  <h2> Connect with me </h2>
+  <img src='https://image.flaticon.com/icons/svg/733/733614.svg' width='24px' height='24px' />
   <img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' />
-  <img src='https://image.flaticon.com/icons/png/512/2582/2582529.png' width='24px' height='24px' />
