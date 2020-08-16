@@ -4,3 +4,4 @@
 </div>
 <ul>
   <li> :mortar_board: Azerbaijan State Oil and Industry University </li>
+  <li> :rocket: I'm currently learning only trend tools/languages</li>
