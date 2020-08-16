@@ -10,10 +10,7 @@
 </ul>
  <h2> Connect with me </h2>
   <div>
-  <div>
   <img src='https://image.flaticon.com/icons/svg/733/733614.svg' width='24px' height='24px' margin-right='20px'/>
-  </div>
-  <div>
+  <br/>
   <img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' />
-  </div>
   </div>
