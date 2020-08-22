@@ -1,4 +1,4 @@
-:wink: Hi there, I'am Nasir
+ Hi there, I'am Nasir
 <div>
   <h3>I'm a Junior Developer!</h3> 
 </div>
