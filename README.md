@@ -1,7 +1,7 @@
  Hi there, I'm Nasir
 <div>
  <h3>I'm a Junior Developer!</h3>
- <h3> Contributor of Techxana Community</h3>  <a href='https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ'><img src='https://ibb.co/wr0Q8J8' width='30px' height='30px'/></a>
+ <h3> Contributor of Techxana Community</h3>  <a href='https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ'><img src='https://i.ibb.co/YTRdJDJ/Techxana-3.png' width='30px' height='30px'/></a>
 </div>
 <ul>
   <li listStyle='none'> :mortar_board: Azerbaijan State Oil and Industry University </li>
