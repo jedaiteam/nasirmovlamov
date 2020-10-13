@@ -1,6 +1,7 @@
  Hi there, I'm Nasir
 <div>
-  <h3>I'm a Junior Developer! and Contributor of Techxana Community</h3>  
+ <h3>I'm a Junior Developer!</h3>
+ <h3> Contributor of Techxana Community</h3>  
 </div>
 <ul>
   <li listStyle='none'> :mortar_board: Azerbaijan State Oil and Industry University </li>
