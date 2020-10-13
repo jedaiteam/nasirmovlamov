@@ -1,4 +1,4 @@
- Hi there, I'm Nasir
+ Hi there, I'm Nasir Movlamov
 <div>
  <h3>I'm a Junior Developer!</h3>
  <pre> <h1>Contributor of Techxana Community  <a href='https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ'><img src='https://i.ibb.co/YTRdJDJ/Techxana-3.png' width='50px' height='50px'/></a> </h1>    </pre> 
@@ -22,4 +22,11 @@
 <div>
 <pre><a href='https://www.facebook.com/nasir.mov.5/'><img src='https://image.flaticon.com/icons/svg/733/733603.svg' width='24px' height='24px' /></a>  <a href='https://www.linkedin.com/feed/'><img src='https://image.flaticon.com/icons/svg/61/61109.svg'24px' width='24px'/></a>  <a href='mailto:nasirmovlamov@gmail.com'><img src='https://www.pinclipart.com/picdir/big/49-494216_download-logo-imel-vektor-png-clipart-logo-clip.png' width='24px' height='24px'/></a>  <a href='tel:+994553063702'><img src='https://image.flaticon.com/icons/svg/733/733641.svg' height='24px' width='24px'/></a>  <a href='https://t.me/nasirmovlamov'><img src='https://image.flaticon.com/icons/svg/1051/1051317.svg' height='24px' width='24px'/></a>  <a href='https://www.instagram.com/nasirmovlamov/'> <img src='https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/12918182511566470606-512.png' width='25px' height='25px'/></a>
 </pre> 
+</div>
+<div>
+ <h2> My Hobbies </h3>
+ <h4> Drawing Portraits (only pencil) :art:</h4>
+ <h4> Learning History :books:</h4>
+ <h4> Fan of Math as Crazy :dizzy_face:</h4> 
+ 
 </div>
