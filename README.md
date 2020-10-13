@@ -27,6 +27,6 @@
  <h2> My Hobbies </h3>
  <h4> Drawing Portraits (only pencil) :art:</h4>
  <h4> Learning History :books:</h4>
- <h4> Fan of Math as Crazy :dizzy_face:</h4> 
+ <h4> Fanboy of Math  :dizzy_face:</h4> 
  
 </div>
