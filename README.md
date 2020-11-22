@@ -1,7 +1,7 @@
  Hi there, I'm Nasir Movlamov
 <div>
  <h3>I'm a Javascript Developer!</h3>
- <pre> <h1>Contributor of Techxana Community  <a href='https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ'><img src='https://i.ibb.co/YTRdJDJ/Techxana-3.png' width='50px' height='50px'/></a> </h1>    </pre> 
+ <pre> <h1>Contributor of Techxana Community  <a href='https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ'><img src='https://ibb.co/SPwWy8M' width='50px' height='50px'/></a> </h1>    </pre> 
 </div>
 <ul>
   <li listStyle='none'> :mortar_board: Azerbaijan State Oil and Industry University </li>
