@@ -1,6 +1,6 @@
  Hi there, I'm Nasir Movlamov
 <div>
- <h3>I'm a Javascript Developer!</h3>
+ <h3>I'm a Damn Javascript Developer!</h3>
  <pre> <h1>Contributor of Techxana Community  <a href='https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ'><img src='https://i.ibb.co/pxjGw8M/Techxana-2.png' width='50px' height='50px'/></a> </h1>    </pre> 
 </div>
 <ul>
