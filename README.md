@@ -17,7 +17,7 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next-dot-js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket-dot-io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
