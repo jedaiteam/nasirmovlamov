@@ -51,7 +51,7 @@
 [![Framer](https://img.shields.io/badge/-Framer-black?style=for-the-badge&logo=framer&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![ChakraUI](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=chakra-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![ChakraUI](https://img.shields.io/badge/-ChakraUI-black?style=for-the-badge&logo=chakra-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 <br/>
 
