@@ -14,19 +14,15 @@
 
 
 ### Languages/Frameworks/Tools
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node-dot-js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![React](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
-[![Next](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=next&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Socket.io](https://img.shields.io/badge/-fastai-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
-[![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![H2O](https://img.shields.io/badge/-H2O-black?style=for-the-badge&logo=h2o&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
-[![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![Next](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=next-dot-js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Socket.io](https://img.shields.io/badge/-fastai-black?style=for-the-badge&logo=socket-dot-io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
-[![Ubuntu](https://img.shields.io/badge/-ubuntu-black?style=for-the-badge&logo=ubuntu&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![KALI](https://img.shields.io/badge/-ubuntu-black?style=for-the-badge&logo=kalilinux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
  Hi there, I'm Nasir Movlamov
 <div>
