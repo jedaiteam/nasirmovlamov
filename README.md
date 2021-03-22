@@ -40,6 +40,8 @@
 [![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=for-the-badge&logo=gitlab&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 <br/>
+<br/>
+
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
@@ -50,6 +52,8 @@
 [![ChakraUI](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=chakra-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 <br/>
+<br/>
+
 
 [![AmazonAws](https://img.shields.io/badge/-AmazonAws-black?style=for-the-badge&logo=amazonaws&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=heroku&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
@@ -68,5 +72,5 @@
 <div>
  <h2> Enjoys</h3>
  <h4> Physics / Astronomy / Relativity </h4> 
- <h4> Drawing Portraits (only pencil) :art:</h4>
+ <h4> Drawing Portraits </h4>
 </div>
