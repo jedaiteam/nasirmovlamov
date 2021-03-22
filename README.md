@@ -12,10 +12,9 @@
 
 <div align="center">
  <img  src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark" alt="nasirmovlamov" />
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" />
+ <img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" />
 </div>
 
-<br/>
 <br/>
 
 ### Languages/Frameworks/Tools
