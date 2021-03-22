@@ -1,7 +1,7 @@
- <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
-<h2 align="center" >Software Developer </h2>
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /> </p>
-<p align="middle"> <a href="https://twitter.com/muratmirgun" target="blank"><img src="https://img.shields.io/twitter/follow/muratmirgun?logo=twitter&style=for-the-badge" alt="muratmirgun" /></a> </p>
+ <h1 align="center">Hi 👋, I'm Nasir Movlamov</h1>
+<h2 align="center" >Damn JS Dev </h2>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="nasirm" /> </p>
+
 
  Hi there, I'm Nasir Movlamov
 <div>
