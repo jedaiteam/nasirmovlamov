@@ -56,7 +56,7 @@
 <br/>
 
 
-[![AmazonAws](https://img.shields.io/badge/-AmazonAws-black?style=for-the-badge&logo=amazonaws&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![AmazonAws](https://img.shields.io/badge/-AmazonAws-black?style=for-the-badge&logo=amazon-aws&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=heroku&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=for-the-badge&logo=raspberry-pi&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
