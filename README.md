@@ -14,7 +14,7 @@
 
 
 ### Languages/Frameworks/Tools
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node-js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=nodejs&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![React](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
 [![Next](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=next&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
