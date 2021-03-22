@@ -10,8 +10,8 @@
  <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ"><img src="https://img.shields.io/badge/telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark"alt="nasirmovlamov" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark"alt="nasirmovlamov" /></p>
 <br/>
 <br/>
 <br/>
