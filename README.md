@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/c/uclganws4qrkzzrgwmwvvfug"><img src="https://img.shields.io/badge/youtube-9116EF.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-![Nasir's Github Stats](https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br>
+![Nasir's Github Stats](https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
 
 
 ### Languages/Frameworks/Tools
@@ -24,7 +24,7 @@
 [![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![JsonWebToken](https://img.shields.io/badge/-JWT.io-black?style=for-the-badge&logo=json-web-token&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![JsonWebToken](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=json-web-tokens&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
