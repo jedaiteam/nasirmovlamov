@@ -10,8 +10,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact" alt="tneilc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark"alt="tneilc" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark"alt="nasirmovlamov" /></p> <br>
 
 
 ### Languages/Frameworks/Tools
@@ -21,6 +21,7 @@
 [![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=for-the-badge&logo=postgresql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
@@ -39,6 +40,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Greensock](https://img.shields.io/badge/-Greensock-black?style=for-the-badge&logo=greensock&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![Framer](https://img.shields.io/badge/-Framer-black?style=for-the-badge&logo=framer&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![ChakraUI](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=chakra-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
@@ -49,6 +51,7 @@
 
 [![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kali-linux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Hack The Box](https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hack-the-box&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=try-hack-me&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
  Hi there, I'm Nasir Movlamov
 <div>
