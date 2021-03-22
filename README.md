@@ -14,11 +14,11 @@
 
 
 ### Languages/Frameworks/Tools
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=r&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![React](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c++&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
-[![Next](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=Pytorch&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![fastai](https://img.shields.io/badge/-fastai-black?style=for-the-badge&logo=fastai&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
+[![React](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
+[![Next](https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=next&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Socket.io](https://img.shields.io/badge/-fastai-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
 [![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![H2O](https://img.shields.io/badge/-H2O-black?style=for-the-badge&logo=h2o&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
