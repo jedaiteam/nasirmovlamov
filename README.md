@@ -15,7 +15,7 @@
 
 
 ### Languages/Frameworks/Tools
-[![Techxana](https://img.shields.io/badge/-Contributor-of-Techxana-Community-black?style=for-the-badge&logo=techxana&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br/>
+[![Techxana](https://img.shields.io/badge/-TechxanaCommunity-black?style=for-the-badge&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br/>
 [![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
