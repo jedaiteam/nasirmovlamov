@@ -19,9 +19,9 @@
 [![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kali-linux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
  Hi there, I'm Nasir Movlamov
