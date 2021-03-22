@@ -13,16 +13,16 @@
 
 
 ### Languages/Frameworks/Tools
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node-dot-js.svg&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node-dot-js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next-dot-js.svg&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket-dot-io.svg&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=next-dot-js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket-dot-io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
-[![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kalilinux.svg&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
+[![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kalilinux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
  Hi there, I'm Nasir Movlamov
 <div>
