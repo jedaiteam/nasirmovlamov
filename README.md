@@ -22,7 +22,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br>
-[![KALI](https://img.shields.io/badge/-ubuntu-black?style=for-the-badge&logo=kalilinux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kali&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
  Hi there, I'm Nasir Movlamov
 <div>
