@@ -44,14 +44,14 @@
 [![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![ChakraUI](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=chakra-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br/>
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=for-the-badge&logo=digitalocean&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=heroku&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=for-the-badge&logo=raspberry-pi&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
 [![KALI](https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kali-linux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Hack The Box](https://img.shields.io/badge/-HackTheBox-black?style=for-the-badge&logo=hack-the-box&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=try-hack-me&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![Try Hack Me](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 
  Hi there, I'm Nasir Movlamov
 <div>
