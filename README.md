@@ -11,7 +11,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&locale=en&theme=onedark"alt="nasirmovlamov" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=compact&theme=onedark" alt="nasirmovlamov" /></p>
 
 ### Languages/Frameworks/Tools
 [![Techxana](https://img.shields.io/badge/-TechxanaCommunity-black?style=for-the-badge&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br/>
