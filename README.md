@@ -17,13 +17,13 @@
 <br/>
 
 ### Languages/Frameworks/Tools
-[![Techxana](https://img.shields.io/badge/-TechxanaCommunity-black?style=for-the-badge&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br/>
+[![Techxana](https://img.shields.io/badge/-TechxanaCommunity-black?style=for-the-badge&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) <br/><br/>
 [![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
 [![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=for-the-badge&logo=postgresql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=mysql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-<br/>
+<br/><br/>
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
@@ -32,7 +32,7 @@
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![JsonWebToken](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=json-web-tokens&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-<br/>
+<br/><br/>
 [![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
