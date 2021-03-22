@@ -8,7 +8,7 @@
   <a href="https://twitter.com/muratmirgun"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/uclganws4qrkzzrgwmwvvfug"><img src="https://img.shields.io/badge/youtube-9116EF.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-![Nasir's Github Stats](https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+![Nasir's Github Stats](https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirmovlamov&layout=dark" alt="tneilc" />
 
 
