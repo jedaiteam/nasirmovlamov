@@ -4,13 +4,13 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="mailto:movlamovnasir2000@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/murat.m.ercann"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://muratmirgun.medium.com/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nasirmovlamov/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/murat-m-ercan"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/muratmirgun"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.youtube.com/c/uclganws4qrkzzrgwmwvvfug"><img src="https://img.shields.io/badge/youtube-9116EF.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
+![Nasir's Github Stats](https://github-readme-stats.vercel.app/api?username=nasirmovlamov&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br>
 
  Hi there, I'm Nasir Movlamov
 <div>
