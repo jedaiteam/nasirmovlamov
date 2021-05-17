@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Nasir Movlamov</h1>
-<h2 align="center" >Damn JS Dev </h2>
+<h2 align="center" >JS Dev </h2>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
