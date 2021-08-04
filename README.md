@@ -7,7 +7,7 @@
   <a href="https://az.linkedin.com/in/nasir-movlamov-322ab21b4"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/nasirmovlamov"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ"><img src="https://img.shields.io/badge/youtube-9116EF.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
- <a href="https://www.youtube.com/channel/UCmE8Psks_-SDw9iG1nn6MpQ"><img src="https://img.shields.io/badge/telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+ <a href="t.me/nasirmovlamov"><img src="https://img.shields.io/badge/telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <div align="center">
